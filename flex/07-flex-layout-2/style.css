@@ -34,7 +34,7 @@ body {
 
 .body{
   display:flex;
-  flex:1
+  flex:1;
 }
 
 .sidebar {
@@ -60,7 +60,7 @@ body {
   border-radius: 4px;
   width:300px;
   padding:16px;
-  justify-content: flex-start;
+  
 }
 
 a{
